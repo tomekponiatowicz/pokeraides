@@ -6,7 +6,7 @@
     "action": "Call 3B or All-in",
     "description":
         "Assumed Bet Sizes: 2.3x Open-Raise, 3x 3B in Position, 3.5x 3B out of Position",
-  }
+  },
   {
     "bb": "30BB",
     "title": "KK",
@@ -14,7 +14,7 @@
     "action": "Call 3B or All-in",
     "description":
         "Assumed Bet Sizes: 2.3x Open-Raise, 3x 3B in Position, 3.5x 3B out of Position",
-  }
+  },
   {
     "bb": "30BB",
     "title": "QQ",
@@ -30,7 +30,7 @@
     "action": "Call 3B or All-in",
     "description":
         "Assumed Bet Sizes: 2.3x Open-Raise, 3x 3B in Position, 3.5x 3B out of Position",
-  }
+  },
   {
     "bb": "30BB",
     "title": "TT",
@@ -38,7 +38,7 @@
     "action": "Call 3B or All-in",
     "description":
         "Assumed Bet Sizes: 2.3x Open-Raise, 3x 3B in Position, 3.5x 3B out of Position",
-  }
+  },
   {
     "bb": "30BB",
     "title": "99",
@@ -46,7 +46,7 @@
     "action": "Call 3B or All-in",
     "description":
         "Assumed Bet Sizes: 2.3x Open-Raise, 3x 3B in Position, 3.5x 3B out of Position",
-  }
+  },
   {
     "bb": "30BB",
     "title": "AKs",
@@ -54,7 +54,7 @@
     "action": "Call 3B or All-in",
     "description":
         "Assumed Bet Sizes: 2.3x Open-Raise, 3x 3B in Position, 3.5x 3B out of Position",
-  }
+  },
   {
     "bb": "30BB",
     "title": "AKo",
@@ -62,7 +62,7 @@
     "action": "Call 3B or All-in",
     "description":
         "Assumed Bet Sizes: 2.3x Open-Raise, 3x 3B in Position, 3.5x 3B out of Position",
-  }
+  },
   {
     "bb": "30BB",
     "title": "AQs",
@@ -70,7 +70,7 @@
     "action": "Call 3B or All-in",
     "description":
         "Assumed Bet Sizes: 2.3x Open-Raise, 3x 3B in Position, 3.5x 3B out of Position",
-  }
+  },
   {
     "bb": "30BB",
     "title": "AQo",
@@ -78,5 +78,5 @@
     "action": "Call 3B or All-in",
     "description":
         "Assumed Bet Sizes: 2.3x Open-Raise, 3x 3B in Position, 3.5x 3B out of Position",
-  }
+  },
 ]
